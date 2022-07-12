@@ -9,7 +9,7 @@
           null,
           1,
           1,
-          0,
+          1,
           null,
           null,
           1,
@@ -35,6 +35,11 @@
           1,
           0,
           0,
+          null,
+          0,
+          null,
+          null,
+          0,
           0,
           null,
           null
@@ -43,13 +48,20 @@
       "/Users/marlon.buckley/Projects/Week-6-Databases/spec/features/bookmarks_page_spec.rb": {
         "lines": [
           1,
+          null,
+          null,
+          1,
+          1,
+          1,
+          null,
+          1,
+          1,
+          1,
+          null,
           1,
           1,
           1,
           1,
-          1,
-          1,
-          0,
           null,
           null
         ]
@@ -73,10 +85,6 @@
           1,
           1,
           1,
-          1,
-          1,
-          1,
-          0,
           null,
           null,
           null
@@ -92,12 +100,17 @@
           1,
           2,
           2,
-          12,
+          null,
+          0,
+          null,
+          null,
+          2,
+          5,
           null,
           null
         ]
       }
     },
-    "timestamp": 1657628311
+    "timestamp": 1657632229
   }
 }

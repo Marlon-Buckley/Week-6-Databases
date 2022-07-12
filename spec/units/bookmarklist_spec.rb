@@ -3,12 +3,8 @@ require 'BookmarkList'
 describe BookmarkList do
   describe '.all' do
     it 'returns all bookmarks' do
-      wipe_test_database
-      add_to_test_database
       bookmarks = BookmarkList.all
-      expect(bookmarks).to include("http://www.makersacademy.com")
-      expect(bookmarks).to include("http://www.bbc.com")
-      expect(bookmarks).to include("http://www.twitter.com")
+      expect(bookmarks).to eq ["http://www.makersacademy.com", "http://www.bbc.com", "http://www.twitter.com"]
     end
   end
 end
