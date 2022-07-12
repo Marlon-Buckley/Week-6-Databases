@@ -11,7 +11,7 @@ class BookmarkManager < Sinatra::Base
   end
 
   get '/bookmarks' do
-    @bookmarks = ["Bookmark1", "Bookmark2"]
+    @bookmarks = ["http://www.makersacademy.com", "http://www.destroyallsoftware.com", "http://www.google.com"]
     erb(:bookmarks)
   end
 
