@@ -17,6 +17,17 @@
           null,
           null,
           1,
+          2,
+          2,
+          null,
+          null,
+          1,
+          1,
+          null,
+          null,
+          1,
+          1,
+          1,
           1,
           1,
           null,
@@ -42,6 +53,27 @@
           0,
           0,
           null,
+          null,
+          1,
+          0,
+          0,
+          null,
+          0,
+          null,
+          null,
+          0,
+          null,
+          null
+        ]
+      },
+      "/Users/marlon.buckley/Projects/Week-6-Databases/spec/bookmark_spec.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          null,
+          1,
+          null,
           null
         ]
       },
@@ -57,9 +89,23 @@
           1,
           1,
           null,
+          null,
           1,
           1,
           1,
+          1,
+          null,
+          null
+        ]
+      },
+      "/Users/marlon.buckley/Projects/Week-6-Databases/spec/features/creating_bookmarks_spec.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          null,
           1,
           null,
           null
@@ -106,19 +152,29 @@
           1,
           null,
           1,
-          2,
-          2,
+          4,
+          4,
           null,
           0,
           null,
           null,
-          2,
-          8,
+          4,
+          12,
+          null,
+          null,
+          1,
+          4,
+          4,
+          null,
+          0,
+          null,
+          null,
+          4,
           null,
           null
         ]
       }
     },
-    "timestamp": 1657702397
+    "timestamp": 1657878553
   }
 }
